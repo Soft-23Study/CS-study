@@ -10,7 +10,7 @@
     → 서버 부하 비용 ↑
     
 
-![Untitled](Untitled.png)
+![Untitled](source_seonghoon/Untitled.png)
 
 ## HTTP/2.0
 
@@ -29,7 +29,7 @@
     문제점 2 : Header 구조의 중복
     
 
-![Untitled](Untitled%201.png)
+![Untitled](source_seonghoon/Untitled1.png)
 
 ## HTTP/2
 
@@ -40,26 +40,26 @@
     - 파싱, 전송 속도 ↑
     - 오류 발생 가능성 ↓
     
-    ![Untitled](Untitled%202.png)
+    ![Untitled](source_seonghoon/Untitled2.png)
     
 - Request and Response Multiplexing
     - 하나의 연결 내 여러 스트림을 사용
     - Head of blocking 문제 해결
     
-    ![Untitled](Untitled%203.png)
+    ![Untitled](source_seonghoon/source_seonghoon/Untitled3.png)
     
 - Stram Prioritization
     - 리소스간 우선순위 설정 가능
 - Server Push
     - 클라이언트의 별도 요청 없이 서버가 “클라이언트에서 필요하겠다”라고 판단하면 바로 리소스를 푸시
 
-![Untitled](Untitled%204.png)
+![Untitled](source_seonghoon/Untitled4.png)
 
 - Header Compression
     - 헤더의 크기를 줄여 페이지 로드 시간 감소
     - 호프만 인코딩을 사용하여 중복된 헤더에 대해서 압축
 
-![feb142f82737d148ed5bcefd91915276.svg](feb142f82737d148ed5bcefd91915276.svg)
+![feb142f82737d148ed5bcefd91915276.svg](source_seonghoon/feb142f82737d148ed5bcefd91915276.svg)
 
 ## HTTP/3
 
@@ -72,6 +72,6 @@
     → 연결 성공 시 설정을 캐싱하여, 다음 연결 때 바로 성립 가능
     
 
-![Untitled](Untitled%205.png)
+![Untitled](source_seonghoon/Untitled5.png)
 
 [https://www.youtube.com/watch?v=xcrjamphIp4](https://www.youtube.com/watch?v=xcrjamphIp4)
