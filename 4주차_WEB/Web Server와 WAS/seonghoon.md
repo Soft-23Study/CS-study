@@ -30,7 +30,7 @@
 - WAS가 너무 많은 역할을 담당 → 서버 과부하 우려
 - WAS 장애시 오류 화면도 노출 불가능 ( 애플리케이션 로직이 동작하고 있는 WAS 서버는 잘 다운됨 )
 
-![Untitled](source_seonghoonUntitled%201.png)
+![Untitled](source_seonghoon/Untitled%201.png)
 
 → 효율적인 리소스 관리가 가능하다.
 
